@@ -20,7 +20,7 @@ i like building tools that purr softly... and bite hard.
 
 ### contact
 
-- **email:** ['null'](mailto:mail@mail)
+- **email:** ['root.cat.sec@gmail.com'](root.cat.sec@gmail.com)
 - **site:** ['Under Construction'](https://site)
 - **keys:** [PGP to come](https://site-pgp)
 
