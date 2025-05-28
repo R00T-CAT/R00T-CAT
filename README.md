@@ -14,14 +14,14 @@ i'm 'R00T-CAT', a cyber security student with claws in:
 - malware analysis
 - open source mischief
 
-i like building tools that purr softly... and bite hard.
+i like building tools that purr softly... and byte hard.
 
 ---
 
 ### contact
 
 - **email:** ['root.cat.sec@gmail.com'](root.cat.sec@gmail.com)
-- **site:** ['Under Construction'](https://site)
+- **site:** ['NyanSec'](https://r00t-cat.github.io/NyanSec/)
 - **keys:** [PGP to come](https://site-pgp)
 
 ---
