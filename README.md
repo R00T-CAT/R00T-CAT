@@ -30,7 +30,7 @@ i like building tools that purr softly... and byte hard.
 
  ```bash
 $ neofetch
-os: nyarch x86_64
+os: NYANSEC_OS x86_64
 Host: R00T-CAT-lair
 Kernel: 5.13.0-claw
 Shell: /bin/mrreow
