@@ -20,9 +20,8 @@ i like building tools that purr softly... and byte hard.
 
 ### contact
 
-- **email:** ['root.cat.sec@gmail.com'](root.cat.sec@gmail.com)
+- **email:** [root.cat.sec@gmail.com](mailto:root.cat.sec@gmail.com)
 - **site:** ['NyanSec'](https://r00t-cat.github.io/NyanSec/)
-- **keys:** [PGP to come](https://site-pgp)
 
 ---
 
@@ -39,4 +38,4 @@ Theme: Pastel Cyberclaw
 ```
 ---
 
-"REAL HACKERS USE PAWS NOT PROMPTS"
+"Real hackers use paws and prompts — but mostly paws 🐾"
