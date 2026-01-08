@@ -1,4 +1,7 @@
 ### R00T-CAT
+
+Satirical Ahh Account
+
 ```
 >meow ~ $ whoami
 >
@@ -13,6 +16,7 @@ i'm 'R00T-CAT', a cyber security student with claws in:
 - ethical hacking and red teaming
 - malware analysis
 - open source mischief
+- absolute trash
 
 i like building tools that purr softly... and byte hard.
 
